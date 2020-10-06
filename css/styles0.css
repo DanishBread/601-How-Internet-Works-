@@ -1,6 +1,7 @@
 #title{
   background-color:#cddc39;
   color: White;
+  padding-bottom: 20px;
 }
 #features{
   padding: 7% 15%;
@@ -22,6 +23,7 @@ padding-bottom: 3%;
   background-color: #ef8172;
   color: #fff;
 }
+
 body{
   font-family:"Montserrat";
 }
@@ -39,6 +41,7 @@ h2 {
 h3{
   font-family: "Montserrat";
   font-size: 1.5rem;
+  padding-bottom: 20px;
 }
 p{
   color: #8f8f8f;
@@ -53,7 +56,15 @@ p{
 .carousel-item{
   padding: 7% 15%;
 }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.centering{
+  margin: 0 auto;
+}
 .container-fluid{
   padding: 3% 15% 7%;
 }
