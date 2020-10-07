@@ -5,7 +5,7 @@ A website about [How Internet Works](https://danishbread.github.io/601-How-Inter
 Website URL: [https://danishbread.github.io/601-How-Internet-Works-/index.html](https://danishbread.github.io/601-How-Internet-Works-/index.html)
 
 ![Screenshot](images/shot.png)
-![Have a closer look](images/shot2.png)
+![Have a closer look](images/shot.gif)
 
 ## Project contributers:
 
@@ -21,4 +21,3 @@ Website URL: [https://danishbread.github.io/601-How-Internet-Works-/index.html](
  - https://www.extrahop.com/resources/protocols/http/
  - https://www.nginx.com/resources/glossary/http/
  - https://blog.hubspot.com/marketing/web-design-html-css-javascript
- 
