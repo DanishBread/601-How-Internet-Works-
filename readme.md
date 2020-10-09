@@ -7,6 +7,7 @@ Website URL: [https://danishbread.github.io/601-How-Internet-Works-/index.html](
 ![Screenshot](images/screenshot.png)
 ![In a nutshell](images/shot.gif)
 ![Have a closer look](images/shot2.gif)
+![foot](images/shotfoot.gif)
 
 ## Project contributers:
 
